@@ -8,5 +8,9 @@ namespace note_pad
 {
     internal class myclassbranch
     {
+        public void myclassbranchmethod()
+        {
+            Console.WriteLine("This is my class branch method.");
+        }   
     }
 }
