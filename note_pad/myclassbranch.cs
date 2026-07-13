@@ -10,7 +10,7 @@ namespace note_pad
     {
         public void myclassbranchmethod()
         {
-            Console.WriteLine("This is my class branch method.");
+            Console.WriteLine("This is my class branch method");
         }   
     }
 }
